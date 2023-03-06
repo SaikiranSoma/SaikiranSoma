@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SaikiranSoma
 - 👀 I’m interested in web development
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source
+- Intrested in programming and development
 - 📫 Mail me at saikiransoma98@gmail.com
 
 <!---
